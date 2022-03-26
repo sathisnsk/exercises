@@ -11,9 +11,8 @@ text-align:center;
 
 .head-img
 {
-width:100%;
-/*height:15rem;*/
-  height:auto;
+width:100vw;
+height:15rem;
 }
 
 .head-logo
